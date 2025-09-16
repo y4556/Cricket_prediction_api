@@ -1,0 +1,15 @@
+# requirements.txt
+fastapi
+uvicorn
+pandas
+scikit-learn==1.2.2
+xgboost
+matplotlib
+seaborn
+openai
+python-multipart
+pydantic
+python-dotenv
+pytest
+aiohttp
+groq
